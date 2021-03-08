@@ -1,6 +1,6 @@
-import './styles/global.css';
+import './styles/global.scss';
 
 export function App(){
-    throw new Error("Eita Alisson, agora você vira Desenvolvedor FullStack");
-    return <h1>Webpack - serve</h1>
+    return <h1>Alisson de Andrade Araújo - Ignite ON</h1>
+    
 }

@@ -7,7 +7,7 @@
 - [X] Webpack Dev Server
 - [X] Utilizando source maps
 - [X] Ambiente de produção (yarn add cross-env -D / yarn add style-loader css-loader -D))
-- [X] Importando arquivos CSS
+- [X] Importando arquivos CSS (yarn add sass-loader -D / yarn add node-sass -D)
 
 ## Conceitos Importantes
 - [ ] Primeiro componente React
