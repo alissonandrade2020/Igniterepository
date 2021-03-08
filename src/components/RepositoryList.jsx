@@ -13,7 +13,9 @@ export function RepositoryList() {
    const [repositories, setRepositories] = useState([]);
 
     useEffect(() => {
-
+        fetch('https://api.github.com/users/alissonandrade2020/repos')
+        .then(response => response.json())
+        .then(data => console.log(data))
     }, []);
    
     return (
@@ -36,9 +38,8 @@ export function RepositoryList() {
             </a> 
             <br/>
             <br/>
-            <h1>Lsta de Repositorios</h1>
+            <h1>Lista de Repositorios</h1>
          
-
             <ul>
                <RepositoryItem repository={repository} />
                <RepositoryItem repository={repository} />
