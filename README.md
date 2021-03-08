@@ -7,10 +7,9 @@
 - [X] Webpack Dev Server
 - [ ] Utilizando source maps
 - [ ] Ambiente de produção
-- [ ] Omportando arquivos CSS
+- [ ] Importando arquivos CSS
 
 ## Conceitos Importantes
-
 - [ ] Primeiro componente React
 - [ ] Propriedades no React
 - [ ] Estado do componente
