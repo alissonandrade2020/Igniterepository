@@ -13,11 +13,35 @@ section.repository-list {
         margin-bottom: 16px;
     }
 
+    a {
+        display: inline-block;
+        margin-top: 14px;
+        text-decoration:  none;
+        color: rgba(52, 235, 6, 0.4);
+
+    }
+
     ul {
         list-style: none;
         
         li {
-            margin-bottom: 20px;
+            & + li {
+                margin-top: 28px;
+            }
+
+            p {
+              font-size: 14px;
+              color:aliceblue;
+              margin-top: 8px;
+            }
+
+            a {
+                display: inline-block;
+                margin-top: 14px;
+                text-decoration:  none;
+                color: rgba(52, 235, 6, 0.4);
+
+            }
         }
     }
 }
