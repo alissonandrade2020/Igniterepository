@@ -5,9 +5,9 @@
 - [X] Estrutura do ReactJS
 - [X] Servindo Html estático
 - [X] Webpack Dev Server
-- [ ] Utilizando source maps
-- [ ] Ambiente de produção
-- [ ] Importando arquivos CSS
+- [X] Utilizando source maps
+- [X] Ambiente de produção (yarn add cross-env -D / yarn add style-loader css-loader -D))
+- [X] Importando arquivos CSS
 
 ## Conceitos Importantes
 - [ ] Primeiro componente React
