@@ -10,11 +10,12 @@
 - [X] Importando arquivos CSS (yarn add sass-loader -D / yarn add node-sass -D)
 
 ## Conceitos Importantes
-- [ ] Primeiro componente React
-- [ ] Propriedades no React
-- [ ] Estado do componente
-- [ ] A imutabilidade no React
-- [ ] Fast Refresh no Webpack
+- [X] Primeiro componente React
+- [X] Propriedades no React
+- [X] Estado do componente
+- [X] A imutabilidade no React
+- [X] Fast Refresh no Webpack (yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+)
 
 ## Chamadas HTTP
 
