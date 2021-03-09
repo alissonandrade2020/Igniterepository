@@ -19,20 +19,20 @@
 
 ## Chamadas HTTP
 
-- [ ] Estilização da listagem
-- [ ] Utilizando o useEffect
-- [ ] Listando repositórios
+- [X] Estilização da listagem
+- [X] Utilizando o useEffect
+- [X] Listando repositórios
 
 ## Usando TypeScript
 
-- [ ] Fundamentos do TypeScript
-- [ ] TypeScript no ReactJs
-- [ ] Componentes com TypeScript
+- [X] Fundamentos do TypeScript
+- [X] TypeScript no ReactJs (yarn add typescript -D / yarn tsc --init / yarn add @babel/preset-typescript -D / yarn add @types/react-dom -D /  yarn add @types/react -D)
+- [X] Componentes com TypeScript
 
 ## Finalizando a Aplicação 
 
-- [ ] Utilizando React DevTools 
-- [ ] Finalização do módulo
+- [X] Utilizando React DevTools 
+- [X] Finalização do módulo
 
 ## Descrição:
 
