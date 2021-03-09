@@ -29,6 +29,11 @@ section.repository-list {
         font-size: 0.9cm;
     }
 
+    h3 {
+        margin-bottom: 16px;
+        font-size: 0.9cm;
+    }
+
     a {
         display: inline-block;
         margin-top: 14px;
@@ -38,7 +43,6 @@ section.repository-list {
     }
 
     .profileContainer > img {
-        margin-left: 400px;
         width: 5.5rem;
         height: 5.5rem;
         border-radius: 50%
