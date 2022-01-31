@@ -21,7 +21,7 @@ export function RepositoryList() {
     return (
         <section className="repository-list">
              <div className="profileContainer">
-                 <img src="https://media-exp1.licdn.com/dms/image/C5603AQF5AHeDK53RIw/profile-displayphoto-shrink_100_100/0/1567017195629?e=1619654400&v=beta&t=CyJ89sI1eVcRsGN-VvJYz8n9rVvu0C7DAAkGAVazaps" alt="Alisson de Andrade Araújo"/>
+                 <img src="https://avatars.githubusercontent.com/u/39311340?s=120&v=4" alt="Alisson de Andrade Araújo"/>
                  <strong>Alisson de Andrade Araújo</strong>
             </div>
             <br/>
